@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Series: lista de series.
+
+     Cada <folder> es una serie. Si lleva file="X.xml", al abrirla el addon carga ese archivo
+     (de esta misma carpeta Código de GitHub) y muestra sus temporadas. Ejemplo:
+       <folder name="Juego de Tronos" file="Juego de Tronos.xml" .../>
+     Para añadir otra serie: crea su XML (copia "Juego de Tronos.xml"), súbelo a Código y añade aquí una línea <folder ... file="..."/>.
+     Si no pones file, puedes meter las temporadas dentro del propio <folder>.
+
+     IMÁGENES (en cualquier <folder>; todas son URL y opcionales):
+       icon, thumb, poster, fanart, banner, clearlogo.
+       Pueden ser enlaces de GitHub raw: https://raw.githubusercontent.com/fenix609/Addon-multimedia/main/Imagenes/...
+
+     INFORMACIÓN (opcional): plot, year, genre, studio, rating (0-10), mpaa, premiered (AAAA-MM-DD), tagline, originaltitle.
+       mediatype = tvshow. -->
+<tree name="Series">
+    <folder name="Juego de Tronos" file="Juego de Tronos.xml" mediatype="tvshow" originaltitle="Game of Thrones" year="2011"
+            genre="Fantasía, Drama, Aventura" studio="HBO"
+            plot="Siete familias nobles se disputan el control de los Siete Reinos mientras una antigua amenaza despierta en el norte."
+            icon="" thumb="https://i.imgur.com/GFtmo9n.pngg" poster="" fanart="https://i.imgur.com/PUE5NS8.jpg" banner="" clearlogo=""/>
+</tree>
