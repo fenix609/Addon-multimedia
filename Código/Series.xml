@@ -14,7 +14,7 @@
      INFORMACIÓN (opcional): plot, year, genre, studio, rating (0-10), mpaa, premiered (AAAA-MM-DD), tagline, originaltitle.
        mediatype = tvshow. -->
 <tree name="Series">
-    <folder name="Juego de Tronos" file="Juego de Tronos" mediatype="tvshow" originaltitle="Game of Thrones" year="2011"
+    <folder name="Juego de Tronos" file="Juego de Tronos.xml" mediatype="tvshow" originaltitle="Game of Thrones" year="2011"
             genre="Fantasía, Drama, Aventura" studio="HBO"
             plot="Siete familias nobles se disputan el control de los Siete Reinos mientras una antigua amenaza despierta en el norte."
             icon="" thumb="https://i.imgur.com/GFtmo9n.png" poster="" fanart="https://i.imgur.com/PUE5NS8.jpg" banner="" clearlogo=""/>
