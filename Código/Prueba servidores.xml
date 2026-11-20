@@ -14,7 +14,7 @@
      Un vídeo sin ningún enlace avisa de que todavía no tiene. -->
 <tree name="Prueba servidores">
     <item title="Prueba 1 · Google Drive y Mega" plot="Comprueba Google Drive y Mega en el mismo vídeo (aparece el selector de servidor si rellenas los dos)."
-          drive="" mega="https://mega.nz/file/kRpAmJTD#agFnWda1dgcr24Nv-u6DxwuU8A53-9UZQHbH67edG1k" icon="" thumb="" fanart=""/>
+          drive="" mega="https://mega.nz/file/NK9zGCjY#jQUnvO5s-Y0wwP_CLrlJehdZSQZSUDvzraILKQjHNVQ" icon="" thumb="" fanart="https://i.blogs.es/42bfe5/caballeros-del-zodiavco/1366_2000.jpeg"/>
     <item title="Prueba 2 · TeraBox" plot="Comprueba un enlace de TeraBox. Necesita la cookie 'ndus' en los ajustes del addon."
           terabox="https://www.terabox.com/spanish/play/video?path=%2Fseries%2Fjuegodetronos%2Ftemporada7%2FJuego%20De%20Tronos%20720P%207X07.mp4&t=-1" icon="" thumb="" fanart=""/>
     <item title="Prueba 3 · Vidoza y Gamovideo" plot="Comprueba Vidoza y Gamovideo (necesitan el addon ResolveURL instalado)."
