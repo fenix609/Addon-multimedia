@@ -18,4 +18,8 @@
             genre="Fantasía, Drama, Aventura" studio="HBO"
             plot="Siete familias nobles se disputan el control de los Siete Reinos mientras una antigua amenaza despierta en el norte."
             icon="" thumb="https://i.imgur.com/GFtmo9n.png" poster="" fanart="https://i.imgur.com/PUE5NS8.jpg" banner="" clearlogo=""/>
+    <folder name="La Casa del Dragón" file="La Casa del Dragon.xml" mediatype="tvshow" originaltitle="House of the Dragon" year="2022" premiered="2022-08-21"
+            genre="Fantasía, Drama, Aventura" studio="HBO"
+            plot="Doscientos años antes de los hechos de Juego de Tronos, la Casa Targaryen está en la cima de su poder, pero la sucesión del Trono de Hierro la lleva a una guerra civil entre dos ramas de la familia: la Danza de los Dragones. Basada en el libro Fuego y Sangre de George R. R. Martin. Está previsto que la serie termine con su cuarta temporada."
+            icon="" thumb="" poster="" fanart="" banner="" clearlogo=""/>
 </tree>
