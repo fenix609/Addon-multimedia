@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Juego de Tronos: temporadas y episodios. Lo abre Series.xml (<folder name="Juego de Tronos" file="Juego de Tronos.xml"/>).
+     Súbelo a la carpeta Código de GitHub con este mismo nombre: Juego de Tronos.xml
+
+     ESTRUCTURA: <tree> (la serie) > <folder> (temporadas) > <item> (episodios).
+       title y plot van en español; originaltitle conserva el título original en inglés.
+
+     ENLACES (en cada <item>; pon el que tengas, o varios: Kodi te deja elegir el servidor):
+       drive="..."      enlace de compartir completo o solo el ID del archivo (permiso "cualquiera con el enlace")
+       mega="..."       https://mega.nz/file/ID#CLAVE   (archivos individuales)
+       terabox="..."    https://www.terabox.com/s/...   (cookie 'ndus' en los ajustes del addon)
+       vidoza="..."  gamovideo="..."   (necesitan el addon ResolveURL)
+       <source name="Nombre" url="..."/>  dentro del <item>, para cualquier otro servidor (Streamtape, Voe, Mixdrop...)
+       Si no hay ningún enlace, el episodio aparece pero avisa de que todavía no tiene.
+       (Opcional) en los ajustes puedes poner una clave API de Google Drive: más fiable con archivos grandes.
+       Escribe & como &amp; dentro de las URL.
+
+     IMÁGENES (en el <tree> de la serie, en cada <folder> o <item>; todas son URL y opcionales):
+       icon, thumb, poster, fanart="https://i.imgur.com/odeV6fY.jpg", banner, clearlogo.  Si falta fanart="https://i.imgur.com/odeV6fY.jpg", hereda el de la carpeta superior.
+
+     INFORMACIÓN (opcional): plot, year, genre, studio, director, rating (0-10), duration (minutos),
+       mpaa, premiered (AAAA-MM-DD), tagline, originaltitle.
+       mediatype = season | episode; season="1" y episode="N" en cada episodio. -->
+<tree name="Juego de Tronos" mediatype="tvshow" fanart="https://i.imgur.com/PUE5NS8.jpg" thumb="https://i.imgur.com/0pIxzl9.png">
+    <folder name="Temporada 1" mediatype="season" season="1" year="2011"
+            plot="Primera temporada. Los Stark, los Lannister y los Targaryen entran en una lucha por el Trono de Hierro."
+            icon="" thumb="https://i.imgur.com/0pIxzl9.png" poster="" fanart="https://i.imgur.com/gdckFAf.jpg">
+        <item title="1x01 · Se acerca el invierno" season="1" episode="1" originaltitle="Winter Is Coming"
+              drive="https://drive.google.com/file/d/1U6vHES9aSFKEEuhGuZ9fu0qz99tnofQI/view?usp=drive_link" plot="El rey Robert visita Invernalia y pide a Ned Stark que sea su Mano; en el Muro aparece una antigua amenaza y Daenerys es entregada en matrimonio a Khal Drogo." duration="" icon="" thumb="https://i.imgur.com/0pIxzl9.png" fanart="https://i.imgur.com/gdckFAf.jpg"/>
+        <item title="1x02 · El camino real" season="1" episode="2" originaltitle="The Kingsroad"
+              drive="https://drive.google.com/file/d/1C0f2KY22VPPfw-DIBOASuYMk4s9RHNHN/view?usp=drive_link" plot="Ned parte hacia el sur con sus hijas, Jon Nieve se dirige al Muro y Bran sigue inconsciente tras su caída." duration="" icon="" thumb="https://i.imgur.com/0pIxzl9.png" fanart="https://i.imgur.com/gdckFAf.jpg"/>
+        <item title="1x03 · Lord Nieve" season="1" episode="3" originaltitle="Lord Snow"
+              drive="https://drive.google.com/file/d/1wDaek5SLJlT93SdIoyRhjhL02vtPJA9y/view?usp=drive_link" plot="Ned se instala como Mano del Rey en Desembarco del Rey, Jon llega al Muro y Daenerys se adapta a la vida entre los dothrakis." duration="" icon="" thumb="https://i.imgur.com/0pIxzl9.png" fanart="https://i.imgur.com/gdckFAf.jpg"/>
+        <item title="1x04 · Lisiados, bastardos y cosas rotas" season="1" episode="4" originaltitle="Cripples, Bastards, and Broken Things"
+              drive="https://drive.google.com/file/d/1F-gIFzqePQBhONVFriOJCpQHwxpqgiCp/view?usp=drive_link" plot="Bran despierta tras su caída, Tyrion visita el Muro y Ned investiga la muerte de Jon Arryn." duration="" icon="" thumb="https://i.imgur.com/0pIxzl9.png" fanart="https://i.imgur.com/gdckFAf.jpg"/>
+        <item title="1x05 · El lobo y el león" season="1" episode="5" originaltitle="The Wolf and the Lion"
+              drive="https://drive.google.com/file/d/1VOuxNsUkSeeeRq9WwKLlNfAVZqq262J7/view?usp=drive_link" plot="Catelyn detiene a Tyrion y se lo lleva al Nido de Águilas, mientras Ned se enfrenta a los Lannister en Desembarco del Rey." duration="" icon="" thumb="https://i.imgur.com/0pIxzl9.png" fanart="https://i.imgur.com/gdckFAf.jpg"/>
+        <item title="1x06 · Una corona de oro" season="1" episode="6" originaltitle="A Golden Crown"
+              drive="https://drive.google.com/file/d/1CERdjxEboZ9-6DZ-s_iGcmjyyVAtTpuA/view?usp=drive_link" plot="Tyrion es juzgado en el Nido de Águilas, Ned sufre las consecuencias de enfrentarse a los Lannister y Viserys reclama su corona." duration="" icon="" thumb="https://i.imgur.com/0pIxzl9.png" fanart="https://i.imgur.com/gdckFAf.jpg"/>
+        <item title="1x07 · Ganas o mueres" season="1" episode="7" originaltitle="You Win or You Die"
+              drive="https://drive.google.com/file/d/1F52OSP-pyqYGpJfch65PHtiI3TGcPuxs/view?usp=drive_link" plot="Ned descubre un secreto de los Lannister y debe elegir entre su deber y la seguridad de su familia." duration="" icon="" thumb="https://i.imgur.com/0pIxzl9.png" fanart="https://i.imgur.com/gdckFAf.jpg"/>
+        <item title="1x08 · El extremo puntiagudo" season="1" episode="8" originaltitle="The Pointy End"
+              drive="https://drive.google.com/file/d/17F_pFxwE40MlPUhrNEoO4itx9ErkIgEP/view?usp=drive_link" plot="Estalla el conflicto entre los Stark y los Lannister, Arya lucha por sobrevivir y Robb reúne a sus abanderados." duration="" icon="" thumb="https://i.imgur.com/0pIxzl9.png" fanart="https://i.imgur.com/gdckFAf.jpg"/>
+        <item title="1x09 · Baelor" season="1" episode="9" originaltitle="Baelor"
+              drive="https://drive.google.com/file/d/1_HX7J19Y6DXlGtMfKUeL5UcT_Rba_Mq2/view?usp=drive_link" plot="El destino de Ned Stark se decide en Desembarco del Rey mientras Robb lleva la guerra contra los Lannister." duration="" icon="" thumb="https://i.imgur.com/0pIxzl9.png" fanart="https://i.imgur.com/gdckFAf.jpg"/>
+        <item title="1x10 · Fuego y sangre" season="1" episode="10" originaltitle="Fire and Blood"
+              drive="https://drive.google.com/file/d/1dh7mflPCx-yAhk3wCmlo_FWW5q5NsjQ_/view?usp=drive_link" plot="Tras una tragedia, los Stark afrontan la guerra, Jon decide su lugar y Daenerys toma una decisión extrema." duration="" icon="" thumb="https://i.imgur.com/0pIxzl9.png" fanart="https://i.imgur.com/gdckFAf.jpg"/>
+    </folder>
+    <folder name="Temporada 2" mediatype="season" season="2" year="2012"
+            plot="Segunda temporada. La guerra de los cinco reyes sacude Poniente."
+            icon="" thumb="https://i.imgur.com/hf6rJWh.png" poster="" fanart="https://imgur.com/d0DJDls.jpg">
+        <item title="2x01 · El Norte recuerda" season="2" episode="1" originaltitle="The North Remembers"
+              drive="https://drive.google.com/file/d/12z3VAvL-0Q3G_2bNbYgV9IYBvsvrhlBk/view?usp=sharing" plot="Joffrey ocupa el trono mientras estalla la guerra de los cinco reyes y Stannis proclama su derecho." duration="" icon="" thumb="https://i.imgur.com/AUNGXST.png" fanart="https://i.imgur.com/d0DJDls.jpg"/>
+        <item title="2x02 · Las tierras de la noche" season="2" episode="2" originaltitle="The Night Lands"
+              drive="https://drive.google.com/file/d/1dAgcv8gkEfBiqDnsxqDIcgXfZLN9SNzQ/view?usp=drive_link" plot="Arya viaja hacia el norte, Theon llega a las Islas del Hierro y Tyrion toma las riendas en Desembarco del Rey." duration="" icon="" thumb="https://i.imgur.com/AUNGXST.png" fanart="https://i.imgur.com/d0DJDls.jpg"/>
+        <item title="2x03 · Lo que está muerto no puede morir" season="2" episode="3" originaltitle="What Is Dead May Never Die"
+              drive="https://drive.google.com/file/d/160mWBIkCJFk7T81qT4YPGl8Ic509HEUH/view?usp=drive_link" plot="Catelyn busca una alianza con Renly Baratheon mientras Tyrion se abre camino en la corte." duration="" icon="" thumb="https://i.imgur.com/AUNGXST.png" fanart="https://i.imgur.com/d0DJDls.jpg"/>
+        <item title="2x04 · Jardín de huesos" season="2" episode="4" originaltitle="Garden of Bones"
+              drive="https://drive.google.com/file/d/1TIwU9XuWz9BK5_WjPCrdV0dnvZOR-z4Y/view?usp=drive_link" plot="La guerra se endurece: Daenerys llega a Qarth, Arya es llevada a Harrenhal y Joffrey muestra su crueldad." duration="" icon="" thumb="https://i.imgur.com/AUNGXST.png" fanart="https://i.imgur.com/d0DJDls.jpg"/>
+        <item title="2x05 · El fantasma de Harrenhal" season="2" episode="5" originaltitle="The Ghost of Harrenhal"
+              drive="https://drive.google.com/file/d/1MwxemSPwb3IqtWvCPrlN2bxDorG1BAp5/view?usp=drive_link" plot="Arya encuentra ayuda inesperada en Harrenhal, Tyrion maniobra en la corte y Daenerys busca aliados en Qarth." duration="" icon="" thumb="https://i.imgur.com/AUNGXST.png" fanart="https://i.imgur.com/d0DJDls.jpg"/>
+        <item title="2x06 · Los antiguos dioses y los nuevos" season="2" episode="6" originaltitle="The Old Gods and the New"
+              drive="https://drive.google.com/file/d/1fWtVWNTI0K_bZrst-c65jcIwCWGsjjX-/view?usp=drive_link" plot="Invernalia sufre un ataque devastador y Tyrion afronta disturbios en Desembarco del Rey." duration="" icon="" thumb="https://i.imgur.com/AUNGXST.png" fanart="https://i.imgur.com/d0DJDls.jpg"/>
+        <item title="2x07 · Un hombre sin honor" season="2" episode="7" originaltitle="A Man Without Honor"
+              drive="https://drive.google.com/file/d/1gTQlgRsAOVtKZzH2qsoTppbsBHczcCOg/view?usp=drive_link" plot="Daenerys pierde lo que más valora en Qarth, Jaime intenta escapar y Theon actúa con crueldad en Invernalia." duration="" icon="" thumb="https://i.imgur.com/AUNGXST.png" fanart="https://i.imgur.com/d0DJDls.jpg"/>
+        <item title="2x08 · El príncipe de Invernalia" season="2" episode="8" originaltitle="The Prince of Winterfell"
+              drive="https://drive.google.com/file/d/14xaPTJzx7hjLPz4ih1WZMNu6BMrInCX8/view?usp=drive_link" plot="Desembarco del Rey se prepara para el ataque de Stannis mientras la guerra se complica para todos los bandos." duration="" icon="" thumb="https://i.imgur.com/AUNGXST.png" fanart="https://i.imgur.com/d0DJDls.jpg"/>
+        <item title="2x09 · Aguasnegras" season="2" episode="9" originaltitle="Blackwater"
+              drive="https://drive.google.com/file/d/1WCEHzIjI_91akxcnLqHG5rDwsmSIQTMy/view?usp=drive_link" plot="Stannis ataca Desembarco del Rey y se libra la batalla decisiva del Aguasnegras." duration="" icon="" thumb="https://i.imgur.com/AUNGXST.png" fanart="https://i.imgur.com/d0DJDls.jpg"/>
+        <item title="2x10 · Valar Morghulis" season="2" episode="10" originaltitle="Valar Morghulis"
+              drive="https://drive.google.com/file/d/1lmoW9ttexuRPyRvyxN5GS1HsNEWdIQH1/view?usp=sharing" plot="Tras la batalla se redefine el equilibrio de poder, Daenerys afronta un desafío en Qarth y la Guardia se adentra más allá del Muro." duration="" icon="" thumb="https://i.imgur.com/AUNGXST.png" fanart="https://i.imgur.com/d0DJDls.jpg"/>
+    </folder>
+    <folder name="Temporada 3" mediatype="season" season="3" year="2013"
+            plot="Tercera temporada. Las alianzas cambian mientras Daenerys reúne un ejército y la guerra sigue en el sur."
+            icon="" thumb="https://i.imgur.com/joZ01YR.png" poster="" fanart="https://i.imgur.com/9k0NyjM.jpg">
+        <item title="3x01 · Valar Dohaeris" season="3" episode="1" originaltitle="Valar Dohaeris"
+              drive="https://drive.google.com/file/d/1k5SOz7yjKVryVgoR9uCBmddAPRYskbFv/view?usp=drive_link" plot="Desembarco del Rey celebra su victoria, Daenerys sigue su camino a Astapor y Jon Nieve se acerca a Mance Rayder." duration="" icon="" thumb="https://i.imgur.com/o9z8giD.png" fanart="https://i.imgur.com/9k0NyjM.jpg"/>
+        <item title="3x02 · Alas negras, palabras negras" season="3" episode="2" originaltitle="Dark Wings, Dark Words"
+              drive="https://drive.google.com/file/d/1iB4I-5rV7KSXx-IzDSi6I5DOnXyzJ5pq/view?usp=drive_link" plot="Jaime y Brienne viajan juntos como prisioneros, Tyrion afronta su nuevo papel en la corte y Daenerys negocia en Astapor." duration="" icon="" thumb="https://i.imgur.com/o9z8giD.png" fanart="https://i.imgur.com/9k0NyjM.jpg"/>
+        <item title="3x03 · El castigo de la marcha" season="3" episode="3" originaltitle="Walk of Punishment"
+              drive="https://drive.google.com/file/d/1GamYBGqXhG0_Rta-TqkR19I0VB0_4643/view?usp=drive_link" plot="Jaime paga un alto precio en su cautiverio y Daenerys cierra un trato arriesgado en Astapor." duration="" icon="" thumb="https://i.imgur.com/o9z8giD.png" fanart="https://i.imgur.com/9k0NyjM.jpg"/>
+        <item title="3x04 · Y ahora su guardia ha terminado" season="3" episode="4" originaltitle="And Now His Watch Is Ended"
+              drive="https://drive.google.com/file/d/1_lIAD7oi3TdhkgBmN-Olx6FZ2QdV8-ul/view?usp=drive_link" plot="Daenerys toma una decisión audaz en Astapor y Jaime y Brienne llegan a Harrenhal." duration="" icon="" thumb="https://i.imgur.com/o9z8giD.png" fanart="https://i.imgur.com/9k0NyjM.jpg"/>
+        <item title="3x05 · Besado por el fuego" season="3" episode="5" originaltitle="Kissed by Fire"
+              drive="https://drive.google.com/file/d/121Yridj4oOUu0e4ErEKmWXuw20VNlimn/view?usp=drive_link" plot="Jaime confiesa una verdad en Harrenhal y el Perro se enfrenta a un duelo ante la Hermandad sin Estandartes." duration="" icon="" thumb="https://i.imgur.com/o9z8giD.png" fanart="https://i.imgur.com/9k0NyjM.jpg"/>
+        <item title="3x06 · La escalada" season="3" episode="6" originaltitle="The Climb"
+              drive="https://drive.google.com/file/d/1oW9JtrJUgnrx5rkhqD4vJCPIBPrueKaD/view?usp=sharing" plot="Jon Nieve escala el Muro junto a los salvajes y en Desembarco del Rey crecen las intrigas." duration="" icon="" thumb="https://i.imgur.com/o9z8giD.png" fanart="https://i.imgur.com/9k0NyjM.jpg"/>
+        <item title="3x07 · La doncella y el oso" season="3" episode="7" originaltitle="The Bear and the Maiden Fair"
+              drive="https://drive.google.com/file/d/1qFr6S17W-uSEWaCfAwnrMLe446xgkSvq/view?usp=sharing" plot="Jaime regresa a Desembarco del Rey mientras Tyrion, Sansa y Daenerys avanzan en sus propios planes." duration="" icon="" thumb="https://i.imgur.com/o9z8giD.png" fanart="https://i.imgur.com/9k0NyjM.jpg"/>
+        <item title="3x08 · Hijos segundos" season="3" episode="8" originaltitle="Second Sons"
+              drive="https://drive.google.com/file/d/1ySvYtKXBkPHfk25rofM8yUwKJeE3nYuo/view?usp=drive_link" plot="Tyrion y Sansa se casan en Desembarco del Rey y Daenerys negocia con los Hijos Segundos." duration="" icon="" thumb="https://i.imgur.com/o9z8giD.png" fanart="https://i.imgur.com/9k0NyjM.jpg"/>
+        <item title="3x09 · Las lluvias de Castamere" season="3" episode="9" originaltitle="The Rains of Castamere"
+              drive="https://drive.google.com/file/d/1TiN2KNy5jNPZPNXAo1zF6ehlZuJ3zUHU/view?usp=drive_link" plot="Los Stark y los Frey se reúnen para una boda en Los Gemelos, un evento que cambiará el rumbo de la guerra." duration="" icon="" thumb="https://i.imgur.com/o9z8giD.png" fanart="https://i.imgur.com/9k0NyjM.jpg"/>
+        <item title="3x10 · Mhysa" season="3" episode="10" originaltitle="Mhysa"
+              drive="https://drive.google.com/file/d/1POClUAnYBELlHUHOU_GdO0htUy7MmVcR/view?usp=drive_link" plot="Tras la tragedia en Los Gemelos los reinos se reorganizan, y Daenerys es aclamada por los esclavos liberados." duration="" icon="" thumb="https://i.imgur.com/o9z8giD.png" fanart="https://i.imgur.com/9k0NyjM.jpg"/>
+    </folder>
+	<folder name="Temporada 4" mediatype="season" season="4" year="2014"
+            plot="Cuarta temporada. Una boda real en Desembarco del Rey y una amenaza creciente en el Muro."
+            icon="" thumb="https://i.imgur.com/B1eoWum.png" poster="" fanart="https://i.imgur.com/FWNM9s6.jpg">
+        <item title="4x01 · Dos espadas" season="4" episode="1" originaltitle="Two Swords"
+              drive="https://drive.google.com/file/d/1L0-uH0MtmImj40PcJWX5qXxmmWQ2KNmy/view?usp=sharing" plot="Tywin hace forjar dos espadas, llega a la corte Oberyn Martell y Joffrey se prepara para su boda." duration="" icon="" thumb="https://i.imgur.com/UR7030v.png" fanart="https://i.imgur.com/FWNM9s6.jpg"/>
+        <item title="4x02 · El león y la rosa" season="4" episode="2" originaltitle="The Lion and the Rose"
+              drive="https://drive.google.com/file/d/19JzaqkGkBmkB6YuWtm36vW62PHadqXMS/view?usp=drive_link" plot="Se celebra la boda de Joffrey y Margaery, un acontecimiento que cambia el curso del poder." duration="" icon="" thumb="https://i.imgur.com/UR7030v.png" fanart="https://i.imgur.com/FWNM9s6.jpg"/>
+        <item title="4x03 · Rompedora de cadenas" season="4" episode="3" originaltitle="Breaker of Chains"
+              drive="https://drive.google.com/file/d/1oeCsNpdoPSYoXV2eqhKTywesNts4ztfy/view?usp=drive_link" plot="Tras la boda real, Tyrion queda en una posición difícil y Daenerys continúa su marcha hacia Meereen." duration="" icon="" thumb="https://i.imgur.com/UR7030v.png" fanart="https://i.imgur.com/FWNM9s6.jpg"/>
+        <item title="4x04 · Guardián del juramento" season="4" episode="4" originaltitle="Oathkeeper"
+              drive="https://drive.google.com/file/d/1Npr1paunxRyIS1tcp25NRzLrAxryjI28/view?usp=drive_link" plot="Jaime encarga a Brienne una misión, Daenerys llega a Meereen y en el Muro los hermanos de la Guardia afrontan una traición." duration="" icon="" thumb="https://i.imgur.com/UR7030v.png" fanart="https://i.imgur.com/FWNM9s6.jpg"/>
+        <item title="4x05 · Primero de su nombre" season="4" episode="5" originaltitle="First of His Name"
+              drive="https://drive.google.com/file/d/1KGpnFjuChHujbj-yy-EYsKs1jBLi17ad/view?usp=drive_link" plot="Tommen es coronado rey, Arya viaja con el Perro y Sansa llega al Nido de Águilas." duration="" icon="" thumb="https://i.imgur.com/UR7030v.png" fanart="https://i.imgur.com/FWNM9s6.jpg"/>
+        <item title="4x06 · Las leyes de dioses y hombres" season="4" episode="6" originaltitle="The Laws of Gods and Men"
+              drive="https://drive.google.com/file/d/1ptlVluANnsGCFjlqg2MHOOVd-WOE5u57/view?usp=drive_link" plot="Tyrion es juzgado en Desembarco del Rey y Daenerys escucha a los ciudadanos de Meereen." duration="" icon="" thumb="https://i.imgur.com/UR7030v.png" fanart="https://i.imgur.com/FWNM9s6.jpg"/>
+        <item title="4x07 · Sinsajo" season="4" episode="7" originaltitle="Mockingbird"
+              drive="https://drive.google.com/file/d/1Efcic2tBnep_IPXxr0X68M7RgsQwZg6l/view?usp=drive_link" plot="Tyrion busca un campeón para un juicio por combate y Sansa se enfrenta a Petyr en el Nido de Águilas." duration="" icon="" thumb="https://i.imgur.com/UR7030v.png" fanart="https://i.imgur.com/FWNM9s6.jpg"/>
+        <item title="4x08 · La Montaña y la Víbora" season="4" episode="8" originaltitle="The Mountain and the Viper"
+              drive="https://drive.google.com/file/d/1OdQyBdLgHitHBrO3xsaDQiX45nAV1FnY/view?usp=drive_link" plot="El juicio por combate de Tyrion se decide en Desembarco del Rey y Arya y el Perro llegan al Nido de Águilas." duration="" icon="" thumb="https://i.imgur.com/UR7030v.png" fanart="https://i.imgur.com/FWNM9s6.jpg"/>
+        <item title="4x09 · Los vigilantes del Muro" season="4" episode="9" originaltitle="The Watchers on the Wall"
+              drive="https://drive.google.com/file/d/1rdZfeKQOboe6M3xOCtNkhXUCVvNelMQn/view?usp=drive_link" plot="La Guardia de la Noche resiste el ataque de un ejército salvaje en Castillo Negro." duration="" icon="" thumb="https://i.imgur.com/UR7030v.png" fanart="https://i.imgur.com/FWNM9s6.jpg"/>
+        <item title="4x10 · Los niños" season="4" episode="10" originaltitle="The Children"
+              drive="https://drive.google.com/file/d/1e-Y4LnM0ybhCdctZBaJNAlfH7-83rryw/view?usp=drive_link" plot="Tras la batalla varias historias convergen: Bran busca al cuervo de tres ojos, Tyrion afronta su destino y Arya toma su propio camino." duration="" icon="" thumb="https://i.imgur.com/UR7030v.png" fanart="https://i.imgur.com/FWNM9s6.jpg"/>
+    </folder>
+	<folder name="Temporada 5" mediatype="season" season="5" year="2015"
+            plot="Quinta temporada. El poder se reordena en Desembarco del Rey mientras Daenerys gobierna Meereen."
+            icon="" thumb="https://i.imgur.com/Rn95eWC.png" poster="" fanart="https://i.imgur.com/vQdQ6c2.jpg">
+        <item title="5x01 · Las guerras por venir" season="5" episode="1" originaltitle="The Wars to Come"
+              drive="https://drive.google.com/file/d/1o8bt2m13cnl4Lh9MBay2hu3ZXVEzS8ZG/view?usp=drive_link" plot="Tyrion y Varys parten de Pentos, Cersei y los Tyrell se disputan la influencia en la corte y Daenerys gobierna Meereen." duration="" icon="" thumb="https://i.imgur.com/FOsWMm2.pngg" fanart="https://i.imgur.com/vQdQ6c2.jpg"/>
+        <item title="5x02 · La casa de blanco y negro" season="5" episode="2" originaltitle="The House of Black and White"
+              drive="https://drive.google.com/file/d/1k9QW2veOsE_MWFCd6M1-VPVO-kNdkwvW/view?usp=drive_link" plot="Arya llega a Braavos y comienza una nueva etapa, mientras Jaime y Bronn parten hacia Dorne." duration="" icon="" thumb="https://i.imgur.com/FOsWMm2.pngg" fanart="https://i.imgur.com/vQdQ6c2.jpg"/>
+        <item title="5x03 · El Gorrión Supremo" season="5" episode="3" originaltitle="High Sparrow"
+              drive="https://drive.google.com/file/d/1uMlvGAFc2FnQqaXPc3Ie9a2E317yx8fg/view?usp=drive_link" plot="El Gorrión Supremo gana poder en Desembarco del Rey y Jon Nieve afronta decisiones en el Muro." duration="" icon="" thumb="https://i.imgur.com/FOsWMm2.pngg" fanart="https://i.imgur.com/vQdQ6c2.jpg"/>
+        <item title="5x04 · Hijos de la Arpía" season="5" episode="4" originaltitle="Sons of the Harpy"
+              drive="https://drive.google.com/file/d/10A2QmNUghRYEvm0l2GNa0iEnAhudPqEG/view?usp=drive_link" plot="Los Hijos de la Arpía golpean a Daenerys en Meereen y Jaime y Bronn llegan a Dorne." duration="" icon="" thumb="https://i.imgur.com/FOsWMm2.pngg" fanart="https://i.imgur.com/vQdQ6c2.jpg"/>
+        <item title="5x05 · Mata al chico" season="5" episode="5" originaltitle="Kill the Boy"
+              drive="https://drive.google.com/file/d/1WJc2FAR_z9_nDlbioY1_m23AZETWT1vj/view?usp=drive_link" plot="Jon Nieve toma una decisión arriesgada, Daenerys afronta un dilema en Meereen y Tyrion cruza el mar con Jorah." duration="" icon="" thumb="https://i.imgur.com/FOsWMm2.pngg" fanart="https://i.imgur.com/vQdQ6c2.jpg"/>
+        <item title="5x06 · Sin doblegar, sin inclinarse, sin quebrarse" season="5" episode="6" originaltitle="Unbowed, Unbent, Unbroken"
+              drive="https://drive.google.com/file/d/13j5qmzOCEOUl8CmOOO8N0zvpxGnXK99Q/view?usp=drive_link" plot="Jaime y Bronn se enfrentan a las Serpientes de Arena en Dorne y Daenerys busca la paz en Meereen." duration="" icon="" thumb="https://i.imgur.com/FOsWMm2.pngg" fanart="https://i.imgur.com/vQdQ6c2.jpg"/>
+        <item title="5x07 · El regalo" season="5" episode="7" originaltitle="The Gift"
+              drive="https://drive.google.com/file/d/1W8tZ_Kmd7bJt-3u5zR7I1KiT4AxPq8dt/view?usp=drive_link" plot="Jon Nieve y Sam afrontan cambios en el Muro mientras Cersei y los Tyrell se enfrentan en Desembarco del Rey." duration="" icon="" thumb="https://i.imgur.com/FOsWMm2.pngg" fanart="https://i.imgur.com/vQdQ6c2.jpg"/>
+        <item title="5x08 · Hardhome" season="5" episode="8" originaltitle="Hardhome"
+              drive="https://drive.google.com/file/d/1PFbyp8g7rEb9zhpQDnCwsvbe7QskuzNg/view?usp=drive_link" plot="Jon Nieve viaja a Hardhome en busca de aliados salvajes y se encuentra con una amenaza terrible." duration="" icon="" thumb="https://i.imgur.com/FOsWMm2.pngg" fanart="https://i.imgur.com/vQdQ6c2.jpg"/>
+        <item title="5x09 · La danza de dragones" season="5" episode="9" originaltitle="The Dance of Dragons"
+              drive="https://drive.google.com/file/d/1Kp7mtEK4f04LZHjA4RH_zL7s89lgHVwG/view?usp=drive_link" plot="Stannis toma una decisión desgarradora y Daenerys se ve atrapada en una arena de Meereen." duration="" icon="" thumb="https://i.imgur.com/FOsWMm2.pngg" fanart="https://i.imgur.com/vQdQ6c2.jpg"/>
+        <item title="5x10 · La piedad de la madre" season="5" episode="10" originaltitle="Mother's Mercy"
+              drive="https://drive.google.com/file/d/1WK0t-xITrFbbDcy79Xxu6X1XXeQwhOPO/view?usp=sharing" plot="Se cierran varias tramas: Cersei afronta su castigo, Stannis llega a Invernalia y Arya y Jon enfrentan decisiones decisivas." duration="" icon="" thumb="https://i.imgur.com/FOsWMm2.pngg" fanart="https://i.imgur.com/vQdQ6c2.jpg"/>
+    </folder>
+	<folder name="Temporada 6" mediatype="season" season="6" year="2016"
+            plot="Sexta temporada. Las casas luchan por recuperar su lugar mientras el norte se prepara para la guerra."
+            icon="" thumb="https://i.imgur.com/wugXWN8.png" poster="" fanart="https://i.imgur.com/5Vo8iMT.jpg">
+        <item title="6x01 · La mujer roja" season="6" episode="1" originaltitle="The Red Woman"
+              drive="https://drive.google.com/file/d/1_TEtQOWZedSMua_EsqkqvM20gRVFiYP8/view?usp=drive_link" plot="Castillo Negro afronta las consecuencias de un hecho trágico, Sansa y Theon escapan de Invernalia y Dorne vive su propia crisis." duration="" icon="" thumb="https://i.imgur.com/wugXWN8.png" fanart="https://i.imgur.com/5Vo8iMT.jpg"/>
+        <item title="6x02 · Hogar" season="6" episode="2" originaltitle="Home"
+              drive="https://drive.google.com/file/d/1zL4G-tKVr1_IaB58-VTKoyD6kRKM3gtJ/view?usp=drive_link" plot="Bran explora el pasado con el cuervo de tres ojos, Cersei afronta el duelo y Tyrion gobierna Meereen." duration="" icon="" thumb="https://i.imgur.com/wugXWN8.png" fanart="https://i.imgur.com/5Vo8iMT.jpg"/>
+        <item title="6x03 · Rompejuramentos" season="6" episode="3" originaltitle="Oathbreaker"
+              drive="https://drive.google.com/file/d/191uiHE3jzcrWH1BR7T4MTriCUloEYBXT/view?usp=drive_link" plot="Jon toma una determinación tras lo ocurrido, y Sansa y Theon son socorridos por Brienne y Podrick." duration="" icon="" thumb="https://i.imgur.com/wugXWN8.png" fanart="https://i.imgur.com/5Vo8iMT.jpg"/>
+        <item title="6x04 · El libro del extraño" season="6" episode="4" originaltitle="Book of the Stranger"
+              drive="https://drive.google.com/file/d/1dxoo6Bx3SY5854T0E9pDtzeSnKJKuyw-/view?usp=drive_link" plot="Sansa y Jon se reencuentran en el Muro y Daenerys afronta una situación inesperada con los dothrakis." duration="" icon="" thumb="https://i.imgur.com/wugXWN8.png" fanart="https://i.imgur.com/5Vo8iMT.jpg"/>
+        <item title="6x05 · La puerta" season="6" episode="5" originaltitle="The Door"
+              drive="https://drive.google.com/file/d/1xtQ9mAiRFWSx8PeGOxQ-_czUgz4ww2aK/view?usp=drive_link" plot="Un recuerdo del pasado de Bran revela un secreto doloroso, mientras Arya y Daenerys avanzan en sus caminos." duration="" icon="" thumb="https://i.imgur.com/wugXWN8.png" fanart="https://i.imgur.com/5Vo8iMT.jpg"/>
+        <item title="6x06 · Sangre de mi sangre" season="6" episode="6" originaltitle="Blood of My Blood"
+              drive="https://drive.google.com/file/d/1VCey8KQ8dx96SnquvKG6DGsyCZExGb1H/view?usp=drive_link" plot="Sam vuelve a casa, Arya vive un cambio en Braavos y en Desembarco del Rey se enfrentan Cersei y el Gorrión Supremo." duration="" icon="" thumb="https://i.imgur.com/wugXWN8.png" fanart="https://i.imgur.com/5Vo8iMT.jpg"/>
+        <item title="6x07 · El hombre roto" season="6" episode="7" originaltitle="The Broken Man"
+              drive="https://drive.google.com/file/d/1M4dVvZLA-RYklRWn-ZPstIgGmxsXDwYd/view?usp=drive_link" plot="Sandor Clegane encuentra un nuevo camino, Brienne busca aliados para Sansa y Arya prepara su futuro." duration="" icon="" thumb="https://i.imgur.com/wugXWN8.png" fanart="https://i.imgur.com/5Vo8iMT.jpg"/>
+        <item title="6x08 · Nadie" season="6" episode="8" originaltitle="No One"
+              drive="https://drive.google.com/file/d/1BgoeDcMhlXQ_VkHa6Rg3MRHXXKj8ntxE/view?usp=drive_link" plot="Jaime y Brienne se enfrentan a un asedio en Aguasdulces y Arya vive una situación límite en Braavos." duration="" icon="" thumb="https://i.imgur.com/wugXWN8.png" fanart="https://i.imgur.com/5Vo8iMT.jpg"/>
+        <item title="6x09 · La batalla de los bastardos" season="6" episode="9" originaltitle="Battle of the Bastards"
+              drive="https://drive.google.com/file/d/1oOZp_bFZjHeScN0inSBdDljduBb2aBvf/view?usp=drive_link" plot="Jon y Sansa se enfrentan a Ramsay Bolton en una batalla decisiva por Invernalia." duration="" icon="" thumb="https://i.imgur.com/wugXWN8.png" fanart="https://i.imgur.com/5Vo8iMT.jpg"/>
+        <item title="6x10 · Los vientos del invierno" season="6" episode="10" originaltitle="The Winds of Winter"
+              drive="https://drive.google.com/file/d/106WlCxw9c_tW721d28J4YZHGYJb0YBJI/view?usp=drive_link" plot="Un juicio en Desembarco del Rey desemboca en un giro de poder, Jon es proclamado rey en el norte y Daenerys zarpa hacia Poniente." duration="" icon="" thumb="https://i.imgur.com/wugXWN8.png" fanart="https://i.imgur.com/5Vo8iMT.jpg"/>
+    </folder>
+	<folder name="Temporada 7" mediatype="season" season="7" year="2017"
+            plot="Séptima temporada. Daenerys llega a Poniente y se acerca el invierno."
+            icon="" thumb="https://i.imgur.com/sgmXN3r.png" poster="" fanart="https://i.imgur.com/odeV6fY.jpg">
+        <item title="7x01 · Rocadragón" season="7" episode="1" originaltitle="Dragonstone"
+              drive="https://drive.google.com/file/d/1FdSUmXwYBQBJ8dfDroSuDBOlOD3t-K7F/view?usp=drive_link" plot="Daenerys llega por fin a Rocadragón, Jon y Sansa gobiernan en Invernalia y Cersei refuerza su dominio." duration="" icon="" thumb="https://i.imgur.com/xOWGNKN.png" fanart="https://i.imgur.com/odeV6fY.jpg"/>
+        <item title="7x02 · Nacida de la tormenta" season="7" episode="2" originaltitle="Stormborn"
+              drive="https://drive.google.com/file/d/1sG3k_bRj63jpQFjpIDBSOiv8-Ok54Qas/view?usp=drive_link" plot="Daenerys reúne a sus aliados y traza su plan de guerra mientras Sam avanza en sus estudios." duration="" icon="" thumb="https://i.imgur.com/xOWGNKN.png" fanart="https://i.imgur.com/odeV6fY.jpg"/>
+        <item title="7x03 · La justicia de la reina" season="7" episode="3" originaltitle="The Queen's Justice"
+              drive="https://drive.google.com/file/d/1Guz3TJZu0hP8ln-AA1ukmdLwVSCno6SU/view?usp=drive_link" plot="Jon Nieve se reúne con Daenerys en Rocadragón mientras Cersei da un golpe a sus enemigos." duration="" icon="" thumb="https://i.imgur.com/xOWGNKN.png" fanart="https://i.imgur.com/odeV6fY.jpg"/>
+        <item title="7x04 · Los botines de guerra" season="7" episode="4" originaltitle="The Spoils of War"
+              drive="https://drive.google.com/file/d/1iKuvueZd3yWRWHImE1syOQfqgxodWPzv/view?usp=drive_link" plot="Los ejércitos chocan en un enfrentamiento inesperado y Bran regresa a Invernalia." duration="" icon="" thumb="https://i.imgur.com/xOWGNKN.png" fanart="https://i.imgur.com/odeV6fY.jpg"/>
+        <item title="7x05 · Guardia Oriental" season="7" episode="5" originaltitle="Eastwatch"
+              drive="https://drive.google.com/file/d/1DGyNOXy9jL0nehFWBo6Er4YB-czG0_Rf/view?usp=drive_link" plot="Daenerys planea una expedición mientras Jon propone capturar a un caminante blanco." duration="" icon="" thumb="https://i.imgur.com/xOWGNKN.png" fanart="https://i.imgur.com/odeV6fY.jpg"/>
+        <item title="7x06 · Más allá del Muro" season="7" episode="6" originaltitle="Beyond the Wall"
+              drive="https://drive.google.com/file/d/1qKgyad6mxZif9OrhjBmJNTMhUMlALYMb/view?usp=drive_link" plot="Un grupo se adentra más allá del Muro para capturar a un caminante blanco y se enfrenta a un gran peligro." duration="" icon="" thumb="https://i.imgur.com/xOWGNKN.png" fanart="https://i.imgur.com/odeV6fY.jpg"/>
+        <item title="7x07 · El dragón y el lobo" season="7" episode="7" originaltitle="The Dragon and the Wolf"
+              drive="https://drive.google.com/file/d/1E_h0dynNuJ2oATlxlfgKgKxR0wmcnjxa/view?usp=drive_link" plot="Los grandes líderes se reúnen en Desembarco del Rey para parlamentar ante la amenaza del norte." duration="" icon="" thumb="https://i.imgur.com/xOWGNKN.png" fanart="https://i.imgur.com/odeV6fY.jpg"/>
+    </folder>
+	<folder name="Temporada 8" mediatype="season" season="8" year="2019"
+            plot="Octava y última temporada. La batalla final por Poniente decide el destino del Trono de Hierro."
+            icon="" thumb="https://i.imgur.com/YKKzDwc.png" poster="" fanart="https://i.imgur.com/SnrYElZ.jpg">
+        <item title="8x01 · Invernalia" season="8" episode="1" originaltitle="Winterfell"
+              drive="" plot="Daenerys y Jon llegan a Invernalia mientras el norte se prepara ante el avance del Rey de la Noche." duration="" icon="" thumb="https://i.imgur.com/xOWGNKN.png" fanart="https://i.imgur.com/SnrYElZ.jpg"/>
+        <item title="8x02 · Un caballero de los Siete Reinos" season="8" episode="2" originaltitle="A Knight of the Seven Kingdoms"
+              drive="" plot="Los defensores de Invernalia se preparan para la batalla que se avecina." duration="" icon="" thumb="https://i.imgur.com/xOWGNKN.png" fanart="https://i.imgur.com/SnrYElZ.jpg"/>
+        <item title="8x03 · La larga noche" season="8" episode="3" originaltitle="The Long Night"
+              drive="" plot="Invernalia se enfrenta al ejército de los muertos en una batalla decisiva." duration="" icon="" thumb="https://i.imgur.com/xOWGNKN.png" fanart="https://i.imgur.com/SnrYElZ.jpg"/>
+        <item title="8x04 · Los últimos de los Stark" season="8" episode="4" originaltitle="The Last of the Starks"
+              drive="" plot="Tras la batalla, los supervivientes celebran y empiezan a trazar el camino hacia Desembarco del Rey." duration="" icon="" thumb="https://i.imgur.com/xOWGNKN.png" fanart="https://i.imgur.com/SnrYElZ.jpg"/>
+        <item title="8x05 · Las campanas" season="8" episode="5" originaltitle="The Bells"
+              drive="" plot="El ejército de Daenerys marcha sobre Desembarco del Rey en un asalto que lo cambia todo." duration="" icon="" thumb="https://i.imgur.com/xOWGNKN.png" fanart="https://i.imgur.com/SnrYElZ.jpg"/>
+        <item title="8x06 · El Trono de Hierro" season="8" episode="6" originaltitle="The Iron Throne"
+              drive="" plot="Poniente decide su futuro tras el final de la guerra por el Trono de Hierro." duration="" icon="" thumb="https://i.imgur.com/xOWGNKN.png" fanart="https://i.imgur.com/SnrYElZ.jpg"/>
+    </folder>
+</tree>
