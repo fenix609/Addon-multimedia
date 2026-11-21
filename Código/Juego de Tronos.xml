@@ -21,7 +21,7 @@
      INFORMACIÓN (opcional): plot, year, genre, studio, director, rating (0-10), duration (minutos),
        mpaa, premiered (AAAA-MM-DD), tagline, originaltitle.
        mediatype = season | episode; season="1" y episode="N" en cada episodio. -->
-<tree name="Juego de Tronos" mediatype="tvshow" fanart="https://i.imgur.com/odeV6fY.jpg"="https://i.imgur.com/PUE5NS8.jpg" thumb="https://i.imgur.com/0pIxzl9.png">
+<tree name="Juego de Tronos" mediatype="tvshow" fanart="https://i.imgur.com/PUE5NS8.jpg" thumb="https://i.imgur.com/0pIxzl9.png">
     <folder name="Temporada 1" mediatype="season" season="1" year="2011"
             plot="Primera temporada. Los Stark, los Lannister y los Targaryen entran en una lucha por el Trono de Hierro."
             icon="" thumb="https://i.imgur.com/0pIxzl9.png" poster="" fanart="https://i.imgur.com/gdckFAf.jpg">
