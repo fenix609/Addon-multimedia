@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- La Casa del Dragón (House of the Dragon): 3 temporadas.
+     En cada episodio pega tu enlace en  drive="..."  (enlace de compartir o ID de Google Drive, compartido como "Cualquier persona con el enlace"),
+     o usa  mega="..."  /  url="..."  si lo tienes en otro sitio. Si drive="" el episodio aparece pero avisa de que aún no tiene enlace.
+     Imágenes opcionales en cada carpeta o episodio (URL): icon, thumb, poster, fanart, banner, clearlogo.
+     Los títulos están en el original; las descripciones (plot) puedes editarlas a tu gusto. -->
+<tree name="La Casa del Dragón">
+    <folder name="Temporada 1" mediatype="season" season="1" year="2022" premiered="2022-08-21" tvshowtitle="La Casa del Dragón"
+            plot="Primera temporada (10 episodios, del 21 de agosto al 23 de octubre de 2022). La dinastía Targaryen vive su época de mayor esplendor bajo el rey Viserys I. Cuando la muerte de la reina Aemma lo deja sin heredero varón, Viserys nombra heredera a su hija Rhaenyra, lo que enfrenta a su hermano Daemon, ambicioso y rebelde, y abre una rivalidad entre las familias que rodean al trono: los Velaryon, los Hightower y los propios Targaryen. Con varios saltos en el tiempo, la historia sigue los matrimonios de conveniencia, las intrigas del Consejo, la amistad rota entre Rhaenyra y Alicent Hightower, que se casa con el rey, y las sospechas sobre la legitimidad de los hijos de Rhaenyra. La muerte de Viserys deja la sucesión en manos del Consejo Verde, que corona a Aegon, hijo de Alicent, en lugar de Rhaenyra: la temporada termina con el estallido de la guerra civil."
+            icon="" thumb="" poster="" fanart="">
+        <item title="1x01 · Los herederos del dragón" season="1" episode="1" originaltitle="The Heirs of the Dragon" premiered="2022-08-21" year="2022" tvshowtitle="La Casa del Dragón"
+              drive="" plot="El rey Viserys organiza un torneo para celebrar el nacimiento de su segundo hijo, mientras Rhaenyra da la bienvenida a su tío Daemon, que regresa a la Fortaleza Roja. La muerte de la reina Aemma y del bebé lleva a Viserys a nombrar heredera a Rhaenyra y deja a Daemon como un hombre agraviado."
+              icon="" thumb="" fanart=""/>
+        <item title="1x02 · The Rogue Prince" season="1" episode="2" originaltitle="The Rogue Prince" premiered="2022-08-28"
+              drive="" plot="Daemon desafía al rey desde su propio territorio mientras la corte discute con quién debe volver a casarse Viserys y quién tendrá más influencia sobre el trono."
+              icon="" thumb="" fanart=""/>
+        <item title="1x03 · Second of His Name" season="1" episode="3" originaltitle="Second of His Name" premiered="2022-09-04"
+              drive="" plot="Daemon y Corlys Velaryon, el Serpiente Marina, combaten contra el Comecangrejos. El reino celebra el segundo cumpleaños de Aegon y Rhaenyra empieza a enfrentarse a la idea del matrimonio."
+              icon="" thumb="" fanart=""/>
+        <item title="1x04 · King of the Narrow Sea" season="1" episode="4" originaltitle="King of the Narrow Sea" premiered="2022-09-11"
+              drive="" plot="Daemon vuelve a la corte con el título de Rey del Mar Angosto y jura lealtad a su hermano. Rhaenyra, tras interrumpir su viaje por el reino, descubre con Daemon la Calle de la Seda, mientras Viserys decide por ella con quién se casará."
+              icon="" thumb="" fanart=""/>
+        <item title="1x05 · We Light the Way" season="1" episode="5" originaltitle="We Light the Way" premiered="2022-09-18"
+              drive="" plot="Daemon visita a su esposa en el Valle, Viserys y Rhaenyra sellan acuerdos con los Velaryon y se celebra la boda de Rhaenyra con Laenor, una ceremonia que acaba en tragedia."
+              icon="" thumb="" fanart=""/>
+        <item title="1x06 · The Princess and the Queen" season="1" episode="6" originaltitle="The Princess and the Queen" premiered="2022-09-25"
+              drive="" plot="Pasan los años: Rhaenyra y Alicent, ya madres, ven cómo la rivalidad entre ambas familias se agrava a medida que crecen sus hijos y aumentan las dudas sobre el parecido de los herederos de Rhaenyra."
+              icon="" thumb="" fanart=""/>
+        <item title="1x07 · Driftmark" season="1" episode="7" originaltitle="Driftmark" premiered="2022-10-02"
+              drive="" plot="Las familias se reúnen en Marcaderiva para un funeral. Viserys pide el fin de las disputas y Alicent exige justicia, mientras Aemond reclama a Vhagar en un enfrentamiento violento que le cuesta un ojo."
+              icon="" thumb="" fanart=""/>
+        <item title="1x08 · The Lord of the Tides" season="1" episode="8" originaltitle="The Lord of the Tides" premiered="2022-10-09"
+              drive="" plot="Con la sucesión de Marcaderiva en juego, Rhaenyra intenta pactar con Rhaenys. El rey Viserys, cada vez más enfermo, intenta mantener unida a la familia."
+              icon="" thumb="" fanart=""/>
+        <item title="1x09 · The Green Council" season="1" episode="9" originaltitle="The Green Council" premiered="2022-10-16"
+              drive="" plot="Muere el rey Viserys, pero Otto Hightower mantiene el hecho en secreto para llevar a cabo el plan del Consejo Verde y coronar a Aegon. Rhaenys, retenida en palacio, escapa a lomos de su dragón Meleys durante la coronación."
+              icon="" thumb="" fanart=""/>
+        <item title="1x10 · The Black Queen" season="1" episode="10" originaltitle="The Black Queen" premiered="2022-10-23"
+              drive="" plot="Rhaenyra recibe en Rocadragón la noticia de la muerte de su padre y de la coronación de Aegon. Entre el deseo de evitar la guerra y la presión de sus partidarios, un encuentro fatal entre su hijo Lucerys y Aemond precipita el conflicto."
+              icon="" thumb="" fanart=""/>
+    </folder>
+    <folder name="Temporada 2" mediatype="season" season="2" year="2024" premiered="2024-06-16"
+            plot="Segunda temporada (8 episodios, del 16 de junio al 4 de agosto de 2024). Tras la coronación de Aegon II y la muerte de Lucerys, el hijo de Rhaenyra, la Casa Targaryen queda dividida en dos bandos. Aegon gobierna desde Desembarco del Rey, apoyado por su madre Alicent y por el Consejo Verde, con el dragón más grande de Poniente, Vhagar, de su lado. Rhaenyra, desde el exilio en Rocadragón, y su Consejo Negro buscan aliados y nuevos jinetes de dragón para equilibrar la balanza. Es la temporada de las primeras grandes batallas de la Danza de los Dragones, de la búsqueda de jinetes entre la gente corriente y de pérdidas muy dolorosas para los dos bandos."
+            icon="" thumb="" poster="" fanart="">
+        <item title="2x01 · A Son for a Son" season="2" episode="1" originaltitle="A Son for a Son" premiered="2024-06-16"
+              drive="https://drive.google.com/file/d/1KeU6aLo_xWGvlGapDApGoGC5sNU3xeUa/view?usp=sharing" plot="Rhaenyra lucha por asumir el asesinato de su hijo mientras Alicent se preocupa por el Consejo que ha reunido Aegon."
+              icon="" thumb="" fanart=""/>
+        <item title="2x02 · Rhaenyra the Cruel" season="2" episode="2" originaltitle="Rhaenyra the Cruel" premiered="2024-06-23"
+              drive="https://drive.google.com/file/d/10dZLjdNch_l27RMXFmG2O4D56YW2wPo0/view?usp=sharing" plot="La muerte del príncipe Jaehaerys siembra el caos en la corte y Aegon reúne a su Consejo, sediento de venganza contra Rhaenyra. Otto trama para volver al pueblo en su contra y Rhaenyra empieza a dudar de la lealtad de Daemon."
+              icon="" thumb="" fanart=""/>
+        <item title="2x03 · 474" season="2" episode="3" originaltitle="The Burning Mill" premiered="2024-06-30"
+              drive="https://drive.google.com/file/d/1IQBU3MeB3CbXkzNwIZH7kf9Zv2QAid3W/view?usp=sharing" plot="La guerra empieza a quemar las tierras de los ríos: ambos bandos buscan aliados y soldados mientras las intrigas de la corte se endurecen."
+              icon="" thumb="" fanart=""/>
+        <item title="2x04 · sinaudio" season="2" episode="4" originaltitle="The Red Dragon and the Gold" premiered="2024-07-07"
+              drive="https://drive.google.com/file/d/1CBfnrp3rVnQut95HAWn_ZYsvhFv9O8rm/view?usp=sharing" plot="Los dragones rojo y dorado se enfrentan en una batalla de consecuencias terribles para el bando de Rhaenyra."
+              icon="" thumb="" fanart=""/>
+        <item title="2x05 · Regent" season="2" episode="5" originaltitle="Regent" premiered="2024-07-14"
+              drive="" plot="Corlys, Rhaenyra y Baela lloran la muerte de Rhaenys. Rhaenyra lamenta no tener jinetes para Vermithor y Silverwing, los únicos dragones capaces de enfrentarse a Vhagar, y Jace propone buscar descendientes de Valyria en otras casas, mientras Aemond asume la regencia."
+              icon="" thumb="" fanart=""/>
+        <item title="2x06 · Smallfolk" season="2" episode="6" originaltitle="Smallfolk" premiered="2024-07-21"
+              drive="" plot="La guerra sigue buscando nuevos jinetes entre la gente corriente: al saber que Seasmoke tiene un nuevo jinete, Rhaenyra parte a lomos de Syrax para conocerlo."
+              icon="" thumb="" fanart=""/>
+        <item title="2x07 · The Red Sowing" season="2" episode="7" originaltitle="The Red Sowing" premiered="2024-07-28"
+              drive="" plot="Rhaenyra busca ventaja por medios insólitos mientras Daemon presiona a un joven señor para que reúna a sus abanderados. Aemond persigue a un rival con Vhagar, pero se retira al ver a Rhaenyra con Syrax, Vermithor y Silverwing."
+              icon="" thumb="" fanart=""/>
+        <item title="2x08 · The Queen Who Ever Was" season="2" episode="8" originaltitle="The Queen Who Ever Was" premiered="2024-08-04"
+              drive="" plot="Aemond se vuelve cada vez más inestable, Larys planea una escapatoria y Rhaenyra intenta aprovechar su ventaja."
+              icon="" thumb="" fanart=""/>
+    </folder>
+    <folder name="Temporada 3" mediatype="season" season="3" year="2026" premiered="2026-06-21"
+            plot="Tercera temporada (8 episodios, del 21 de junio al 9 de agosto de 2026). La guerra civil entre Rhaenyra y Aegon II llega a su momento decisivo. Arranca con la Batalla del Gaznate, el gran combate naval contra la flota de la Triarquía, y sigue con la caída de Desembarco del Rey en manos de Rhaenyra, las dificultades de la reina para gobernar una capital hambrienta y dividida, la caza de Aemond y de Aegon, y el avance del ejército Hightower, que ocupa Tumbleton. Adapta acontecimientos del libro Fuego y Sangre de George R. R. Martin y concluye con la batalla de Tumbleton."
+            icon="" thumb="" poster="" fanart="">
+        <item title="3x01 · Salt and Sea, Fire and Blood" season="3" episode="1" originaltitle="Salt and Sea, Fire and Blood" premiered="2026-06-21"
+              drive="https://drive.google.com/file/d/1K3kNTxivVREN1bIxDBJo6UIhzRzTqFsg/view?usp=sharing" plot="Arranca la Batalla del Gaznate: la Triarquía ataca a la flota Velaryon y Jace y Baela vuelan con sus dragones para detenerla, mientras Daemon gana nuevos aliados en el norte y Rhaena monta por fin a Sheepstealer. La batalla se cobra un precio muy alto."
+              icon="" thumb="" fanart=""/>
+        <item title="3x02 · Queen's Landing" season="3" episode="2" originaltitle="Queen's Landing" premiered="2026-06-28"
+              drive="https://drive.google.com/file/d/1mzuUYEeKIoRe7U9Yd7twQV18p2-a43bM/view?usp=sharing" plot="Rhaenyra, destrozada, entra en Desembarco del Rey con sus dragones y la ciudad cae en sus manos; se sienta en el Trono de Hierro mientras Aegon huye y Aemond llega herido a Harrenhal."
+              icon="" thumb="" fanart=""/>
+        <item title="3x03 · Rhaenyra Triumphant" season="3" episode="3" originaltitle="Rhaenyra Triumphant" premiered="2026-07-05"
+              drive="" plot="Ya en la capital, Rhaenyra se encuentra con un tesoro vacío, un Alto Septón que se niega a ungirla y una ciudad hambrienta. Reparte comida y se gana al pueblo, pero choca con Corlys y descubre que Ormund Hightower ha tomado Tumbleton."
+              icon="" thumb="" fanart=""/>
+        <item title="3x04 · Tumbleton" season="3" episode="4" originaltitle="Tumbleton" premiered="2026-07-12"
+              drive="" plot="Los soldados de Ormund hostigan a los habitantes de Tumbleton y Daeron descubre que quieren hacerlo rey. En la capital, Rhaenyra afronta los problemas de las finanzas y los rumores sobre sus hijos, y Daemon encuentra a Rhaena y a su dragón."
+              icon="" thumb="" fanart=""/>
+        <item title="3x05 · Unbowed and Unbent" season="3" episode="5" originaltitle="Unbowed and Unbent" premiered="2026-07-19"
+              drive="" plot="Aemond se recupera en Harrenhal con ayuda de Alys, Aegon y Larys se reprochan sus fracasos y Criston y Gwayne hostigan al ejército de Oscar Tully. En Desembarco del Rey, Daemon investiga el asesinato de varios miembros de la Guardia de la Ciudad."
+              icon="" thumb="" fanart=""/>
+        <item title="3x06 · Faceless Men" season="3" episode="6" originaltitle="Faceless Men" premiered="2026-07-26"
+              drive="" plot="Criston Cole muere en combate, Rhaenyra envía asesinos a Tumbleton haciéndose pasar por enviados de los Baratheon y la delincuencia sacude la capital. Rhaenyra propone a Alicent liberarla si mata a Aemond."
+              icon="" thumb="" fanart=""/>
+        <item title="3x07 · The Dragon in Winter" season="3" episode="7" originaltitle="The Dragon in Winter" premiered="2026-08-02"
+              drive="" plot="Rhaenyra, Daemon y Addam hieren a Sheepstealer; Alicent llega a Harrenhal y envenena a Aemond; Ormund soborna a Ulf para que traicione a Rhaenyra y Sunfyre reaparece para salvar a Aegon."
+              icon="" thumb="" fanart=""/>
+        <item title="3x08 · The Treasons at Tumbleton" season="3" episode="8" originaltitle="The Treasons at Tumbleton" premiered="2026-08-09"
+              drive="" plot="La batalla de Tumbleton: Daemon ataca con Caraxes y los Lobos de Invierno asaltan las murallas, mientras Ulf traiciona a Rhaenyra. Termina con la ciudad en llamas, muertes importantes y un golpe devastador para Rhaenyra."
+              icon="" thumb="" fanart=""/>
+    </folder>
+</tree>
