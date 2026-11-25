@@ -6,14 +6,14 @@
                 private = true -> pide el PIN de los ajustes (si hay uno)
      <submenu>  file    = archivo de esta carpeta (Código) que define el submenú -->
 <menu>
-    <section id="television" name="Televisión" catalog="Televisión"  banner="https://imgur.com/H9T95J5"   thumb="https://imgur.com/B2ob2vq" fanart="https://imgur.com/5r28gnk">
-        <submenu id="tdt" name="TDT" banner="https://imgur.com/18ZtB9s"   thumb="https://imgur.com/B2ob2vq" fanart="https://imgur.com/3AEhnPO" file="TDT.xml"/>
+    <section id="television" name="Televisión" catalog="Televisión"  banner="https://i.imgur.com/H9T95J5.jpg"   thumb="https://i.imgur.com/B2ob2vq.jpg" fanart="https://i.imgur.com/5r28gnk.jpg" icon="https://i.imgur.com/B2ob2vq.jpg" poster="https://i.imgur.com/B2ob2vq.jpg">
+        <submenu id="tdt" name="TDT" banner="https://i.imgur.com/18ZtB9s.jpg"   thumb="https://i.imgur.com/B2ob2vq.jpg" fanart="https://i.imgur.com/3AEhnPO.jpg" file="TDT.xml" icon="https://i.imgur.com/B2ob2vq.jpg" poster="https://i.imgur.com/B2ob2vq.jpg"/>
     </section>
-    <section id="peliculas_series" name="Películas y Series" catalog="Películas y Series" thumb="https://imgur.com/HxRcdFk"  banner="https://imgur.com/YIZfnoA" fanart="https://imgur.com/yZdqHsk">
-        <submenu id="series" name="Series" file="Series.xml" icon="https://imgur.com/gva17lN"  banner="https://imgur.com/cx72Xiz" fanart="https://imgur.com/tCX7R8x" plot="Series con episodios en Google Drive, Mega, TeraBox, Vidoza, Gamovideo..."/>
-        <submenu id="prueba" name="Prueba" file="Prueba.xml"/>
-        <submenu id="servidores" name="Prueba servidores" file="Prueba servidores.xml" plot="Tres vídeos de ejemplo para probar Drive, Mega, TeraBox, Vidoza y Gamovideo."/>
+    <section id="peliculas_series" name="Películas y Series" catalog="Películas y Series" thumb="https://i.imgur.com/HxRcdFk.jpg"  banner="https://i.imgur.com/YIZfnoA.jpg" fanart="https://i.imgur.com/yZdqHsk.jpg" icon="https://i.imgur.com/HxRcdFk.jpg" poster="https://i.imgur.com/HxRcdFk.jpg">
+        <submenu id="series" name="Series" file="Series.xml" icon="https://i.imgur.com/gva17lN.jpg"  banner="https://i.imgur.com/cx72Xiz.jpg" fanart="https://i.imgur.com/tCX7R8x.jpg" plot="Series con episodios en Google Drive, Mega, TeraBox, Vidoza, Gamovideo..." thumb="https://i.imgur.com/gva17lN.jpg" poster="https://i.imgur.com/gva17lN.jpg"/>
+        <submenu id="prueba" name="Prueba" file="Prueba.xml" icon="https://i.imgur.com/HxRcdFk.jpg" thumb="https://i.imgur.com/HxRcdFk.jpg" poster="https://i.imgur.com/HxRcdFk.jpg" banner="https://i.imgur.com/YIZfnoA.jpg" fanart="https://i.imgur.com/yZdqHsk.jpg"/>
+        <submenu id="servidores" name="Prueba servidores" file="Prueba servidores.xml" plot="Tres vídeos de ejemplo para probar Drive, Mega, TeraBox, Vidoza y Gamovideo." icon="https://i.imgur.com/HxRcdFk.jpg" thumb="https://i.imgur.com/HxRcdFk.jpg" poster="https://i.imgur.com/HxRcdFk.jpg" banner="https://i.imgur.com/YIZfnoA.jpg" fanart="https://i.imgur.com/yZdqHsk.jpg"/>
     </section>
-    <section id="entretenimiento" name="Entretenimiento" catalog="Entretenimiento" banner="https://imgur.com/VyOC5Pa" thumb="https://imgur.com/T7L0P1E" fanart="https://imgur.com/JfUGruM"/>
+    <section id="entretenimiento" name="Entretenimiento" catalog="Entretenimiento" banner="https://i.imgur.com/VyOC5Pa.jpg" thumb="https://i.imgur.com/T7L0P1E.jpg" fanart="https://i.imgur.com/JfUGruM.jpg" icon="https://i.imgur.com/T7L0P1E.jpg" poster="https://i.imgur.com/T7L0P1E.jpg"/>
     <section id="privado" name="Privado" catalog="Privado" private="true" thumb="" fanart=""/>
 </menu>
