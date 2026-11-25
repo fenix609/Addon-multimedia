@@ -6,14 +6,14 @@
                 private = true -> pide el PIN de los ajustes (si hay uno)
      <submenu>  file    = archivo de esta carpeta (Código) que define el submenú -->
 <menu>
-    <section id="television" name="Televisión" catalog="Televisión" thumb="" fanart="">
-        <submenu id="tdt" name="TDT" file="TDT.xml"/>
+    <section id="television" name="Televisión" catalog="Televisión"  banner="https://imgur.com/H9T95J5"   thumb="https://imgur.com/B2ob2vq" fanart="https://imgur.com/5r28gnk">
+        <submenu id="tdt" name="TDT" banner="https://imgur.com/18ZtB9s"   thumb="https://imgur.com/B2ob2vq" fanart="https://imgur.com/3AEhnPO" file="TDT.xml"/>
     </section>
-    <section id="peliculas_series" name="Películas y Series" catalog="Películas y Series" thumb="" fanart="">
-        <submenu id="series" name="Series" file="Series.xml" icon="" fanart="" plot="Series con episodios en Google Drive, Mega, TeraBox, Vidoza, Gamovideo..."/>
+    <section id="peliculas_series" name="Películas y Series" catalog="Películas y Series" thumb="https://imgur.com/HxRcdFk"  banner="https://imgur.com/YIZfnoA" fanart="https://imgur.com/yZdqHsk">
+        <submenu id="series" name="Series" file="Series.xml" icon="https://imgur.com/gva17lN"  banner="https://imgur.com/cx72Xiz" fanart="https://imgur.com/tCX7R8x" plot="Series con episodios en Google Drive, Mega, TeraBox, Vidoza, Gamovideo..."/>
         <submenu id="prueba" name="Prueba" file="Prueba.xml"/>
         <submenu id="servidores" name="Prueba servidores" file="Prueba servidores.xml" plot="Tres vídeos de ejemplo para probar Drive, Mega, TeraBox, Vidoza y Gamovideo."/>
     </section>
-    <section id="entretenimiento" name="Entretenimiento" catalog="Entretenimiento" thumb="" fanart=""/>
+    <section id="entretenimiento" name="Entretenimiento" catalog="Entretenimiento" banner="https://imgur.com/VyOC5Pa" thumb="https://imgur.com/T7L0P1E" fanart="https://imgur.com/JfUGruM"/>
     <section id="privado" name="Privado" catalog="Privado" private="true" thumb="" fanart=""/>
 </menu>
